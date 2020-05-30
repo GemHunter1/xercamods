@@ -11,7 +11,7 @@
     </facet>
   </component>
   <component name="McpModuleSettings">
-    <option name="mappingFile" value="E:\Mine\Mine Mods\XercaPaintMod\build\createMcpToSrg\output.tsrg" />
+    <option name="mappingFile" value="E:\Mine\xercamods\XercaPaintMod\build\createMcpToSrg\output.tsrg" />
     <option name="mcpVersion" value="snapshot_20200225-1.15.1" />
     <option name="minecraftVersion" value="1.15.2" />
     <option name="srgType" value="TSRG" />

@@ -11,7 +11,7 @@
     </facet>
   </component>
   <component name="McpModuleSettings">
-    <option name="mappingFile" value="E:\Mine\Mine Mods\XercaPaintMod\build\createMcpToSrg\output.tsrg" />
+    <option name="mappingFile" value="E:\Mine\xercamods\XercaPaintMod\build\createMcpToSrg\output.tsrg" />
     <option name="mcpVersion" value="snapshot_20200225-1.15.1" />
     <option name="minecraftVersion" value="1.15.2" />
     <option name="srgType" value="TSRG" />
@@ -20,8 +20,8 @@
     <output-test url="file://$MODULE_DIR$/../../XercaPaintMod/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../XercaPaintMod/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../XercaPaintMod/src/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../XercaPaintMod/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../XercaPaintMod/src/test/resources" type="java-test-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
