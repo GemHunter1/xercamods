@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "xercapaint:recipes/item_canvas_large": {
+    "criteria": {
+      "has_item": "2020-09-01 18:11:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-05-30 17:14:10 +0300"
@@ -56,6 +62,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-05-15 19:26:57 +0300"
+    },
+    "done": true
+  },
+  "xercapaint:recipes/item_canvas_long": {
+    "criteria": {
+      "has_item": "2020-09-01 18:11:13 +0300"
     },
     "done": true
   },
@@ -235,6 +247,12 @@
     },
     "done": true
   },
+  "xercapaint:recipes/item_canvas_large_alt": {
+    "criteria": {
+      "has_the_recipe": "2020-09-01 18:11:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2020-05-15 19:02:38 +0300"
@@ -367,6 +385,12 @@
     },
     "done": true
   },
+  "xercapaint:recipes/item_canvas_large_alt_alt": {
+    "criteria": {
+      "has_the_recipe": "2020-09-01 18:11:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-05-15 19:26:27 +0300"
@@ -388,6 +412,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-05-15 19:26:27 +0300"
+    },
+    "done": true
+  },
+  "xercapaint:recipes/item_canvas_tall": {
+    "criteria": {
+      "has_item": "2020-09-01 18:11:13 +0300"
     },
     "done": true
   },
